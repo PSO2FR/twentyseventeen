@@ -1,6 +1,7 @@
 # Twenty Seventeen
 
-Forked from Wordpress' Twenty Seventeen theme.
+Forked from Wordpress' Twenty Seventeen theme.  
+Current version is `2.7`.
 
 ## Original source
 
